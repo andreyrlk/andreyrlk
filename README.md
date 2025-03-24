@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/andreydeveloper)
 
 
-## 🌐  Teconologias que eu uso no meu dia:
+## 🌐  Tech Stack:
 
 <div style="display: inline_black"><br>
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  />
