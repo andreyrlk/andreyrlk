@@ -72,3 +72,10 @@
 <div align="center">  
 <a href="https://www.instagram.com/andreyrlq_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
+
+
+<imagem align="center">
+  <source media="(prefere-color-scheme: escuro)" srcset=" https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake-dark.svg ">
+  <source media="(prefere-color-scheme: light)" srcset=" https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake-dark.svg ">
+  <img align="center" alt="animação de cobra da grade de contribuição do github" src=" https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake.svg ">
+</imagem>
