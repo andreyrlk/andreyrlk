@@ -1,5 +1,5 @@
 
-### 👋 Hello! Welcome to my GitHub! 🚀
+## Hi, my name is Andrey! 👋 Welcome to my GitHub, where I share all my projects. 🚀
 
 ## 🌐  Technologies I use in my daily life:
 
@@ -59,3 +59,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" 
 />
+<br>
+
+## 📲 Social media:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/andreydeveloper)
