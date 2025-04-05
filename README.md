@@ -1,8 +1,9 @@
-
-# Hi, my name is Andrey! 👋 Welcome to my GitHub, where I share all my projects. 🚀
-
-## 🌐  Technologies:
-
+## 👨‍💻 Olá! Me chamo Andrey
+🚀 Apaixonado por tecnologia e tudo que envolve inovação  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas – 3/6    
+🛡️ Foco na área de Cibersegurança  
+🔍 Explorando o mundo da programação, redes e segurança da informação
+ <br><br>
 <img 
     align="left" 
     alt="HTML"
@@ -59,25 +60,8 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" 
 />
-<br>
-## 📲 Acesse meu LinkedIn:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/andreydeveloper)
+<br><br>
+<div>
+ <a href="www.linkedin.com/in/andreydeveloper" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href="mailto:andreydasilvagoncalves12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://instagram.com/andreyrlq_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Andrey&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">  
-<a href="https://www.instagram.com/andreyrlq_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
-
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Andrey&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<imagem align="center">
-  <source media="(prefere-color-scheme: escuro)" srcset=" https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake-dark.svg ">
-  <source media="(prefere-color-scheme: light)" srcset=" https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake-dark.svg ">
-  <img align="center" alt="animação de cobra da grade de contribuição do github" src=" https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake.svg ">
-</imagem>
+<div>
